@@ -1,4 +1,4 @@
-# Deploy Keycloak to Heroku - with free dyno and PostgreSQL
+# Deploy Keycloak to Heroku
 
 This repository deploys the [Keycloak](https://www.keycloak.org) Identity and Access Manangement Solution 
 to Heroku.  It is based of Keycloak's official docker image with some slight modifications to use the
